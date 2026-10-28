@@ -1,0 +1,13 @@
+{
+  "_about": "Pins for Pinterest auto-publish, served as RSS at https://hoopdeck.app/pins/feed.xml. The Coach Shop agent adds a pin here only after Lucas approves it on the ship. An item shows in the feed once its date has passed.",
+  "items": [
+    {
+      "id": "d-r-coachshop-20261029-pin-1",
+      "title": "Fair minutes for every player, planned in minutes",
+      "description": "Equal playing time without the maths on the bench. This printable basketball rotation sheet splits each quarter into two blocks, so you tick who is on court and every junior player gets a fair share. Includes a fair-share table for 6 to 12 players. Part of the Game-Day Kit: fillable PDF, A4 and US Letter, instant download, A$7.",
+      "link": "https://payhip.com/b/doA8u",
+      "image": "https://raw.githubusercontent.com/Lygsie/hoopdeck-media/main/pins/20261029-fair-minutes-rotation-planner.png",
+      "date": "2026-10-28T18:50:00+11:00"
+    }
+  ]
+}
